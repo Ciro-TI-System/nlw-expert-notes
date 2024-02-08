@@ -43,6 +43,10 @@ Acesse http://localhost:5173 para visualizar a aplicação.
 
 <br>
 
+## 🎲 DEMO
+
+<br>
+
 ## 🎨 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1336456128647909148). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
