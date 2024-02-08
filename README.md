@@ -45,6 +45,8 @@ Acesse http://localhost:5173 para visualizar a aplicação.
 
 ## 🎲 DEMO
 
+https://github.com/Ciro-TI-System/nlw-expert-notes/assets/78507494/0a8990f6-2daa-423a-88a6-f47844328cae
+
 <br>
 
 ## 🎨 Layout
