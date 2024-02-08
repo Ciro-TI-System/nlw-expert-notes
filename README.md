@@ -11,11 +11,18 @@ Notes
 </p>
 
 <br>
-
-<p align="center">
-  <img src=".github/expert-notes.jpg" width="80%">
+  
 </p>
-
+<div style="display: flex;" >
+<p>
+  <img src=".github/expert-notes-grid.jpg" width="98%">
+  <img src=".github/expert-notes-inputs.jpg" width="98%">
+</p>
+<p>
+  <img src=".github/expert-notes-filter.jpg" width="98%">
+  <img src=".github/expert-notes-delete.jpg" width="98%">
+</p>
+</div>
 <br>
 
 ## 🛠 Tecnologias
@@ -40,10 +47,6 @@ npm run dev
 ```
 
 Acesse http://localhost:5173 para visualizar a aplicação.
-
-<br>
-
-## 🎲 DEMO
 
 <br>
 
